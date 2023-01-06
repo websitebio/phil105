@@ -94,13 +94,13 @@ html {
 }
 
 .about-card .about-paragraph {
-  margin-top: 2rem;
+  margin-top: 5rem;
   background-color: #191a1c;
   font-family: Product Sans;
   font-size: 1.8rem;
  color: white;
   width: max(50vw, 300px);
-  padding: 2rem;
+  padding: 3rem;
   border-radius: 0.5rem;
 }
 
